@@ -1,12 +1,13 @@
-# learning-eks - Learning Amazon Elastic k8s Service
+# learning-eks k8s service
 
-        - Overview of Docker Containers And Kubernetes in AWS
-        - Overview of AWS Container Management Offerings and Architecture
-        - Getting Started with Kubernetes on EKS
-        - Building A Kubernetes Cluster On EKS 
-        - Networking Kubernetes Pods
+
+        - Overview of docker containers and k8s in AWS
+        - Overview of AWS container management offerings and architecture
+        - Getting Started with K8s on EKS
+        - Building A k8s cluster On EKS 
+        - Networking K8s pods
         - Migrating from On-premise to AWS.
-        - Integrate Kubernetes with Continuous Integration (CI).
-        - Ensuring High Availability and Disaster Recovery in Kubernetes.
+        - Integrate k8s with Continuous Integration (CI).
+        - Ensuring High Availability and Disaster Recovery in Kubernetes
         - Using Fargate to Manage EKS
         - Troubleshooting
