@@ -1,4 +1,4 @@
-# learning-eks - Learning aws eks k8s Service
+# learning-eks k8s Service
 
 
         - Overview of docker containers and k8s in AWS
