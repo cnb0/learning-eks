@@ -1,4 +1,4 @@
-# learning-eks - Learning Amazon Elastic k9s Service
+# learning-eks - Learning Amazon Elastic k8s Service
 
         Overview of Docker Containers And Kubernetes in AWS
         Overview of AWS Container Management Offerings and Architecture
